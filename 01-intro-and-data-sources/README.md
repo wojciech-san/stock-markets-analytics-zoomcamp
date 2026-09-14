@@ -7,6 +7,11 @@ The accompanying notebook is:
 
 For a more direct, theory-focused explanation, see [Module 1 theory — explained simply](module-01-theory.md).
 
+The runnable Homework 1 cell template is in
+[homework1_solution_template.py](homework1_solution_template.py). It uses `# %%`
+cell markers, so it can be opened as notebook-style cells in VS Code or copied
+into `homework1.ipynb`.
+
 ## 1. The mental model
 
 A market-analysis project normally follows this sequence:
